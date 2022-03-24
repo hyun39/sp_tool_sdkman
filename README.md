@@ -1,4 +1,4 @@
-# sp_tool_sdkman
+# sp_tool_sdkman ( Software Development Kit Manager )
 
 홈사이트
 https://sdkman.io/
