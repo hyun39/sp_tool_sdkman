@@ -15,10 +15,9 @@ https://sdkman.io/usage
 <pre>
 <code>
 sdk version
-
 SDKMAN 5.14.1
 </code>
-<pre>
+</pre>
 
 - java 예
 <pre>
@@ -39,4 +38,4 @@ sdk install java 11.0.2-open
 sdk list maven
 sdk install maven 3.8.5
 </code>
-<pre>
+</pre>
