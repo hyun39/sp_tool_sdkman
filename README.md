@@ -30,7 +30,7 @@ sdk default java 17.0.2-tem
 sdk uninstall java
 sdk current java
 
-sdk offline eable
+sdk offline enable
 sdk offline disable
 
 sdk list java
