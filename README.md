@@ -11,7 +11,7 @@ https://sdkman.io/usage
 
 
 
-버젼 확인
+- 버젼 확인
 <pre>
 <code>
 sdk version
@@ -20,7 +20,7 @@ SDKMAN 5.14.1
 </code>
 <pre>
 
-java 예
+- java 예
 <pre>
 <code>
 sdk list java
